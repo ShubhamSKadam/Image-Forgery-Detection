@@ -1,8 +1,4 @@
-# Digital-Fake-Image-Detection-Based-on-ANN-and-ML
-
-**Image Tampering Detection using ELA and CNN**
-
----
+# Image Forgery Detection with ELA and Deep Learning
 
 
 ## Project objective
